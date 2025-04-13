@@ -1,0 +1,27 @@
+.button {
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+    font-size: 24px;
+}
+
+.left-first {
+    background-color: black;
+    color: white;
+}
+
+.right-second {
+    background-color: yellow;
+}
+
+.left, .right {
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+    font-size: 30px;
+}
+
+.left.square{
+    background-color: black;
+    color: white;
+}
+
+.right.square {
+    background-color: yellow;
+}
