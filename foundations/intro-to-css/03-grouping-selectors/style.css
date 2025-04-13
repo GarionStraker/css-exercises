@@ -1,3 +1,7 @@
+/* 
+Styled using single target selectors 
+*/
+
 .button {
     font-family: "Helvetica", "Times New Roman", "sans-serif";
     font-size: 24px;
@@ -11,6 +15,10 @@
 .right-second {
     background-color: yellow;
 }
+
+/* 
+Styled using grouped and chained selectors
+*/
 
 .left, .right {
     font-family: "Helvetica", "Times New Roman", "sans-serif";
